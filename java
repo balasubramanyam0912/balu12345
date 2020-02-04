@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class SwapNumbers
+class SwapNumbers and numbers
 
 {
 
